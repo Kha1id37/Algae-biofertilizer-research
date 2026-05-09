@@ -88,4 +88,4 @@ One of the most surprising things I learned during this project is just how many
 
 ## 👥 The Team
 
-![Team Photo](YOUR_PHOTO_FILENAME.jpg)
+![Team Photo](https://github.com/Kha1id37/Algae-biofertilizer-research/blob/main/IMG_2858.jpg)
