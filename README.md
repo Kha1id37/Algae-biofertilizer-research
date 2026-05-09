@@ -48,7 +48,7 @@ Our data showed that as algae grew, nitrate and phosphate concentrations dropped
 
 ## 📊 Presentation
 
-[View our project poster](2025_ENGR100_Design_Session_1_Poster_Template.pdf)
+[View our project poster](https://github.com/Kha1id37/Algae-biofertilizer-research/blob/main/2025%20ENGR100%20Design%20Session%201%20Poster%20Template.pdf)
 
 ---
 
